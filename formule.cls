@@ -39,7 +39,7 @@
 \theoremstyle{concrete-thm}
 \newtheorem*{theorem}{Izrek}
 \newtheorem*{proposition}{Trditev}
-\newtheorem{*corollary}{Posledica}
+\newtheorem*{corollary}{Posledica}
 
 \theoremstyle{concrete-def}
 \newtheorem*{definition}{Definicija}
